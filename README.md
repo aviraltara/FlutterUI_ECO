@@ -1,6 +1,3 @@
-Here's a simple README tailored for the "Eco UI" GitHub project, focusing specifically on the UI code:
-
----
 
 # Eco UI
 
